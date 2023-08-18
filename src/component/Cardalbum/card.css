@@ -1,0 +1,18 @@
+.chip-section{
+    background-color: var(--color-white);
+    height: 50px;
+    padding: 8px;
+    border-radius: 0px 0px 8px 8px; 
+    display: flex;
+}
+.chip{
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+.card-image img{
+    border-radius: 8px 8px 0px 0px;
+}
+.lower-card{
+    color:var(--color-white);
+    margin-top:5px;
+}

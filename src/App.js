@@ -4,7 +4,8 @@ import Hero from '../src/component/Hero/hero';
 //import { useEffect, useState } from 'react';
 //import axios from 'axios';
 //import Grid from '@mui/material/Grid';
-import Card from './component/Card/card';
+//import Cardgrid from './component/Section/section';
+import Section from './component/Section/section';
 
 function App() {
   // const [data, setData] = useState([]);
@@ -19,7 +20,7 @@ function App() {
     <div>
       <Navbar />
       <Hero />
-      <Card/>     
+      <Section/>     
     </div>
   );
 }
