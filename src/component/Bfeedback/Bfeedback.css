@@ -1,0 +1,11 @@
+.feedback-btn{
+    background-color: var(--color-black);
+    color: var(--color-primary);
+    width:170px;
+    height:47px;
+    border-radius: 12px;
+    Padding:10px, 16px, 10px, 16px;
+    font-size: 16px;
+    line-height: 19.2px;
+    letter-spacing: 0.2px;
+}

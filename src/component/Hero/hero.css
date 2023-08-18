@@ -1,0 +1,10 @@
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:5px;
+}
+.hero-text{
+    text-align: center;
+    color:var(--color-white);
+}
